@@ -22,11 +22,8 @@ function About() {
     <>
       <main>
         <h2>Who are we?</h2>
-        <p>
-          That feels like an existential question, don't you
-          think?
-        </p>
-        <p>Read more <a href="https://reactrouter.com/docs/en/v6/getting-started/installation#create-react-app">HERE</a></p>
+
+        <p>Read more <a target = "_blank"  rel="noreferrer noopener" href="https://reactrouter.com/docs/en/v6/getting-started/installation#create-react-app">HERE</a></p>
       </main>
       <nav>
         <Link to="/">Home</Link>
